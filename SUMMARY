@@ -1,0 +1,1 @@
+基于 LSPosed 的虚拟定位模块。不需要「模拟位置」开发者选项，除 android.location 外，还接管目标 App 内嵌的高德 / 百度 / 腾讯定位 SDK。
